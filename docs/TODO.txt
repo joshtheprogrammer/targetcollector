@@ -1,0 +1,2 @@
+1. Change setup.py
+2. NAME
